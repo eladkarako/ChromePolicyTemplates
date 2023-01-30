@@ -1,0 +1,13 @@
+{
+  "name": "com.google.endpoint_verification.api_helper",
+  "description": "Google Endpoint Verification API Helper",
+  "path": "ApiHelper.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://kngjcibmkbngcpnaoafbgkicpgmdehje/",
+    "chrome-extension://callobklhcbilhphinckomhgkigmfocg/",
+    "chrome-extension://oigombmpildfokhngfpagoddcpmfbjbk/",
+    "chrome-extension://defpdpdbabkdgiiemipddkjbpcekecbj/",
+    "chrome-extension://flccafnekgjghjclpipcihjcibfopold/"
+  ]
+}

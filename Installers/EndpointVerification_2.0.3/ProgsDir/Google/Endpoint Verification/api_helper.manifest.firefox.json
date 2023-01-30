@@ -1,0 +1,10 @@
+{
+  "name": "com.google.endpoint_verification.api_helper",
+  "description": "Google Endpoint Verification API Helper",
+  "path": "ApiHelper.exe",
+  "type": "stdio",
+  "allowed_extensions": [
+    "endpointverification-team@google.com",
+    "secureconnect-team@google.com"
+  ]
+}
